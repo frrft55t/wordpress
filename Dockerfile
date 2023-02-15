@@ -1,3 +1,5 @@
 FROM btpanel/baota:latest
-EXPOSE 80 8888 443
+EXPOSE 80
+EXPOSE 8888
+EXPOSE 443
 USER root
