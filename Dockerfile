@@ -1,3 +1,3 @@
-FROM wordpress:latest
-EXPOSE 80
+FROM btpanel/baota:latest
+EXPOSE 80 8888 443
 USER root
