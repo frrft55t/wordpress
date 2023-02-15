@@ -1,3 +1,3 @@
-FROM wordpress:5.8-apache
+FROM wordpress:latest
 EXPOSE 80
 USER root
