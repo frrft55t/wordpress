@@ -1,4 +1,4 @@
 # Infrastructure as code in for doprax.com
 volumes:
-  - name:  http_root
-    mount: /
+  - name:  new volume 01
+    mount: /app/data/
